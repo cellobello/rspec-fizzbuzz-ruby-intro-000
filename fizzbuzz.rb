@@ -3,10 +3,3 @@ def fizzbuzz(int)
     puts "Fizzbuzz"
   end
   
-elsif int % 3 == 0 
-puts "fizz"
-end
-elsif int % 5 == 0 
-puts "buzz"
-end
-end
